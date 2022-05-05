@@ -22,7 +22,7 @@ docker-compose up
 Verify the deployment by sending POST request to your server.
 
 #### Request examples:
-![request example to empty DB](https://github.com/dkudrik/bewise.ai_task/bewise_task/main/request_example_to_empty_db?raw=true)
-![request example](https://github.com/dkudrik/bewise.ai_task/bewise_task/main/request_example_to_empty_db?raw=true)
+![request example to empty DB](https://github.com/DKudrik/bewise.ai_task/blob/main/request_example_to_empty_db.png?raw=true)
+![request example](https://github.com/DKudrik/bewise.ai_task/blob/main/request_example.png?raw=true)
 
 
